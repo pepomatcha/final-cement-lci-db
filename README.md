@@ -7,10 +7,10 @@ CN230 Final Project (Team S1-601): Normalized MySQL LCI Database, Neo4j Graph + 
 ![Neo4j](https://img.shields.io/badge/Neo4j%20Aura-Graph%20%2B%20Vector%20Search-008CC1?logo=neo4j&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Interactive%20Dashboard-4285F4?logo=googleanalytics&logoColor=white)
 
-**Course:** CN230 Database Systems (Final Project — Team `S1-601` / Team 01)  
+**Course:** CN230 Database Systems (Final Project — Team `S1-G01` / Team 01)  
 **Team Members:**
-* น.ส. นดามล ลากสวรรณ์ (`6910742392`)
-* น.ส. กานต์ ด้วงสกล (`6510742343`)
+* น.ส. นฤกมล ลากสวรรณ์ (`6810742392`)
+* น.ส. ฐิติกานต์ ด้วงสกล (`6810742343`)
 * น.ส. มนพัทธ์ รักการดี (`6810742442`)
 
 ---
