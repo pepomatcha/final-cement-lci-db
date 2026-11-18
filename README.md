@@ -23,6 +23,13 @@ CN230 Final Project (Team S1-601): Normalized MySQL LCI Database, Neo4j Graph + 
 
 ---
 
+
+**[Open Demo LCI webapp]([https://sites.google.com/view/reddit-cementlci-demo-web-app/reddit-cementlci-demo])**
+
+[![Dashboard Preview](docs/web_demo_preview.png)]([https://sites.google.com/view/reddit-cementlci-demo-web-app/reddit-cementlci-demo])
+
+---
+
 ## System Architecture
 
 ```text
