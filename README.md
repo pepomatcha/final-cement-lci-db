@@ -1,11 +1,12 @@
 # final-cement-lci-db
 CN230 Final Project (Team S1-601): Normalized MySQL LCI Database, Neo4j Graph + Vector Serving Layer &amp; Looker Studio Dashboard
 
-# CementLCI: Thai Portland Cement LCI Database, Neo4j Graph + Vector Search & BI Dashboard
+# CementLCI: Thai Portland Cement LCI Database, Neo4j Graph + Vector Search & BI Dashboard & Web Demo
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%20(3NF%2FBCNF)-4479A1?logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j%20Aura-Graph%20%2B%20Vector%20Search-008CC1?logo=neo4j&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Interactive%20Dashboard-4285F4?logo=googleanalytics&logoColor=white)
+![Demo](https://img.shields.io/badge/Demo%20LCI%20web-4285F4?logo=googleanalytics&logoColor=white)
 
 **Course:** CN230 Database Systems (Final Project — Team `S1-G01` / Team 01)  
 **Team Members:**
